@@ -5,9 +5,9 @@ function App() {
     <>
       <h3>Hello There... and.</h3>
       <h1>Welcome To PupperList</h1>
-      <h1>Here Are Some Puppies</h1>
-      <h1>And yes I said Pupper</h1>
-      <h1>Enjoy</h1>
+      <h4>Here Are Some Puppies</h4>
+      <h4>And yes I said Pupper</h4>
+      <h4>Enjoy</h4>
       ==============================
       <br />
       <PuppyLoader />
